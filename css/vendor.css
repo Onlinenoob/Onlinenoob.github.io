@@ -822,6 +822,7 @@ button.swiper-pagination-bullet {
 
 .basicLightbox--visible {
     opacity : 1;
+    overflow-y: scroll;
 }
 
 .basicLightbox__placeholder {
